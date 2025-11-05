@@ -3,3 +3,4 @@ def nowa_funkcja():
 
 print("Hello Git!")
 nowa_funkcja()
+print("To jest zmiana od wspolpracownika!")
